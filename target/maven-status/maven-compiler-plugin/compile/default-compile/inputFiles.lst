@@ -1,28 +1,39 @@
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\MainSecurity.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Dto\dtoExperiencia.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Dto\LoginUsuario.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Controller\PersonaController.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Repository\RExperiencia.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Dto\NuevoUsuario.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Entity\Usuario.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Service\RolService.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Service\UsuarioService.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\jwt\JwtEntryPoint.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\SmjmApplication.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\jwt\JwtTokenFilter.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Repository\iRolRepository.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Entity\Persona.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Controller\Mensaje.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Entity\UsuarioPrincipal.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Interface\IPersonaService.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Service\UserDetailsImpl.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Entity\Rol.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Service\ImpPersonaService.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Entity\Experiencia.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Dto\JwtDto.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Enums\RolNombre.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\jwt\JwtProvider.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Repository\IPersonaRepository.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Service\SExperiencia.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Repository\iUsuarioRepository.java
-C:\Users\Santiago\Downloads\Proyecto Final\BackEnd\smjm\src\main\java\com\portfolio\smjm\Security\Controller\AuthController.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Controller\CEducacion.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Enums\RolNombre.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Controller\CHys.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Entity\Persona.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Entity\UsuarioPrincipal.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Controller\AuthController.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Dto\dtoExperiencia.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Entity\Experiencia.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\SmjmApplication.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Repository\RExperiencia.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Entity\Rol.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\MainSecurity.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Repository\IPersonaRepository.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Service\RolService.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Repository\Rhys.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\jwt\JwtProvider.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Dto\dtoHys.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Service\UserDetailsImpl.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Service\UsuarioService.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Dto\NuevoUsuario.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Dto\dtoPersona.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Repository\iRolRepository.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Entity\Educacion.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Service\Shys.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Controller\Mensaje.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Entity\hys.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\jwt\JwtEntryPoint.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\jwt\JwtTokenFilter.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Service\Seducacion.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Repository\REducacion.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Dto\JwtDto.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Dto\LoginUsuario.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Entity\Usuario.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Controller\PersonaController.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Dto\dtoEducacion.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Service\ImpPersonaService.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Service\SExperiencia.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Controller\CExperiencia.java
+C:\Users\Santiago\Downloads\Back-end\src\main\java\com\portfolio\smjm\Security\Repository\iUsuarioRepository.java
