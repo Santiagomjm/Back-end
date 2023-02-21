@@ -1,0 +1,6 @@
+version: '3.3'
+services:
+  smjm:
+    image: smjm-image
+    ports:
+      - "8080:8080"
