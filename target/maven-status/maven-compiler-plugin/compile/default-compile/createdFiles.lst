@@ -13,6 +13,7 @@ com\portfolio\smjm\Entity\Experiencia.class
 com\portfolio\smjm\Repository\REducacion.class
 com\portfolio\smjm\Security\Controller\AuthController.class
 com\portfolio\smjm\Security\Service\RolService.class
+com\portfolio\smjm\WebConfig.class
 com\portfolio\smjm\Service\SExperiencia.class
 com\portfolio\smjm\Service\Shys.class
 com\portfolio\smjm\Security\jwt\JwtEntryPoint.class
