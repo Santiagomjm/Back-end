@@ -88,7 +88,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.portfolio.smjm.SmjmApplication</mainClass>
+                            <mainClass>com.example.MainClass</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
