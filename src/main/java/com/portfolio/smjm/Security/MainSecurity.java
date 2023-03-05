@@ -27,7 +27,7 @@ public class MainSecurity {
 
     @Autowired
 
-    UserDetailsImpl userDetailsServiceImpl;
+    UserDetailsImpl userDetailsServicesImpl;
 
 
 
