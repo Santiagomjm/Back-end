@@ -19,7 +19,6 @@ com\portfolio\smjm\Service\Shys.class
 com\portfolio\smjm\Security\jwt\JwtEntryPoint.class
 com\portfolio\smjm\Security\Repository\iUsuarioRepository.class
 com\portfolio\smjm\Security\Service\UsuarioService.class
-.netbeans_automatic_build
 com\portfolio\smjm\Security\Service\UserDetailsImpl.class
 com\portfolio\smjm\Dto\dtoExperiencia.class
 com\portfolio\smjm\Entity\Persona.class
